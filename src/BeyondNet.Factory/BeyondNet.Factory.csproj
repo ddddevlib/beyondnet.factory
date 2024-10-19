@@ -7,6 +7,11 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Title>BeyondNet.Factory</Title>
+    <Description>BeyondNet.Factory is a .NET library aimed at improving the factory and abstract factory patterns by introducing configuration-driven behavior. It enables developers to create structured factories that simplify object instantiation across different .NET applications.</Description>
+    <Copyright>Beyondnet Code</Copyright>
+    <PackageTags>factory, factory-patterns</PackageTags>
+    <PackAsTool>False</PackAsTool>
   </PropertyGroup>
 
   <ItemGroup>
